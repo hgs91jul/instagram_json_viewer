@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 
-# INSTAGRAM JSON VIEWER
-# 2020 (c) Micha Johannes Birklbauer
-# https://github.com/michabirklbauer/
-# micha.birklbauer@gmail.com
+# INSTAGRAM nailsalonbdn 
+# 2020 (c) nailsalonbdn 
+# https://github.com/nailsalonbdn/
+# hectorcarla28@gmail.com 
 
 from datetime import datetime as dt
 import urllib.request as ur
